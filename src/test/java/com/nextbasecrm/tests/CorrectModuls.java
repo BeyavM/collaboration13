@@ -1,5 +1,6 @@
 package com.nextbasecrm.tests;
 
-public class testbase {
+public class CorrectModuls {
+
 
 }
