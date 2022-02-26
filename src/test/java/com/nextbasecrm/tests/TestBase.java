@@ -1,5 +1,5 @@
 package com.nextbasecrm.tests;
 
-public class testbase {
+public class TestBase {
     //SDET
 }
